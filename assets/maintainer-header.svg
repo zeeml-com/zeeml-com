@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 210" width="100%" height="100%" role="img" aria-label="ZeeML Engineering — Core Maintainer Profile">
+  <defs>
+    <linearGradient id="mBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="100%" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="mLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="210" rx="16" fill="url(#mBg)" stroke="#1E293B" stroke-width="2"/>
+  <rect x="48" y="0" width="280" height="4" rx="2" fill="url(#mLine)"/>
+
+  <g transform="translate(48, 48)">
+    <rect width="58" height="58" rx="14" fill="#111C33" stroke="url(#mLine)" stroke-width="2"/>
+    <path d="M 16 18 H 42 L 17 40 H 42" fill="none" stroke="url(#mLine)" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="124" y="74" fill="#F8FAFC" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="26" font-weight="800">
+    ZeeML Engineering (@zeeml-com)
+  </text>
+  <text x="124" y="102" fill="#94A3B8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" font-weight="500">
+    Lead Maintainer @Zee-ML • Client-Side Linguistic Cadence, RFC-4180 Data Pipelines &amp; Open Benchmarks
+  </text>
+
+  <g transform="translate(48, 134)">
+    <rect x="0" y="0" width="190" height="38" rx="8" fill="#064E3B" stroke="#10B981" stroke-width="1"/>
+    <text x="95" y="24" text-anchor="middle" fill="#6EE7B7" font-family="ui-monospace, monospace" font-size="12" font-weight="700">🌐 https://zeeml.com</text>
+
+    <rect x="206" y="0" width="210" height="38" rx="8" fill="#111C33" stroke="#1E293B" stroke-width="1"/>
+    <text x="311" y="24" text-anchor="middle" fill="#E2E8F0" font-family="ui-monospace, monospace" font-size="12" font-weight="600">Org: github.com/Zee-ML</text>
+
+    <rect x="432" y="0" width="230" height="38" rx="8" fill="#111C33" stroke="#1E293B" stroke-width="1"/>
+    <text x="547" y="24" text-anchor="middle" fill="#94A3B8" font-family="ui-monospace, monospace" font-size="12">TS • Rust • Python • MCP</text>
+
+    <rect x="678" y="0" width="274" height="38" rx="8" fill="#111C33" stroke="#1E293B" stroke-width="1"/>
+    <text x="815" y="24" text-anchor="middle" fill="#38BDF8" font-family="ui-monospace, monospace" font-size="12">WebExtensions • IDE • SDKs</text>
+  </g>
+</svg>
